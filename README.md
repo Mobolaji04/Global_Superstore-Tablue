@@ -1,4 +1,4 @@
-# 📊 Global Superstore Tableau Dashboard Portfolio
+# 📊 Global Superstore Tableau 
 
 
 ## 🚀 Project Overview
@@ -26,6 +26,7 @@ The goal is to transform raw business data into actionable insights through inte
 # 📈 Tableau Skills Demonstrated
 
 ## 1. Bar Charts
+<img width="1395" height="717" alt="Screenshot 2026-07-27 141129" src="https://github.com/user-attachments/assets/bbe83637-a1cd-4324-8e07-03882b0d423a" />
 
 ### Sales by Category
 
@@ -62,6 +63,7 @@ Visualize sales contribution by customer segment.
 ---
 
 ## 3. Treemap Visualizations
+<img width="1454" height="704" alt="Screenshot 2026-07-27 140806" src="https://github.com/user-attachments/assets/ddfdfdfd-a5b2-4a98-ad3d-7e0ea9fad99f" />
 
 ### Sales by Sub-Category
 
@@ -98,6 +100,7 @@ Visualize worldwide sales activity.
 ---
 
 ## 5. Line Charts
+<img width="1458" height="721" alt="Screenshot 2026-07-27 140952" src="https://github.com/user-attachments/assets/d578e988-6e07-4bec-a28e-c5849ee7ba5f" />
 
 ### Sales Trend Over Time
 
@@ -129,19 +132,6 @@ Understand how discounts impact profitability.
 - Correlation analysis
 - Quadrant analysis
 - Dynamic parameters
-
----
-
-## 7. Heat Maps
-
-### Profitability by Region and Category
-
-Reveal performance hotspots.
-
-**Skills Demonstrated**
-- Conditional formatting
-- Color intensity analysis
-- Cross-dimensional comparison
 
 ---
 
@@ -226,15 +216,7 @@ Reveal performance hotspots.
 ---
 
 # 📷 Dashboard Preview
-
-image of dashboard!
-### Executive Dashboard
-
-images/executive-dashboard.png
-
-### Global Sales Map
-
-images/global-sales-map.png
+<img width="1567" height="976" alt="Screenshot 2026-07-27 140638" src="https://github.com/user-attachments/assets/62bfc54b-6194-40dd-848a-c6fc6be8e95a" />
 
 ### Product Analysis
 
